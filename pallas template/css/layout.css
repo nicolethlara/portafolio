@@ -109,13 +109,13 @@ ul.slimmenu li ul {
 
 .logo{
 	position:absolute;
-	width:134px;
-	height:25px;
+	width:100px;
+	height:100px;
 	z-index:10000;
 	left:40px;
-	top:50px;
+	top:15px;
 	background:url('../images/logo.png') no-repeat center center;
-	background-size:134px 25px;
+	background-size:100px 100px;
 	-webkit-transition : all 0.3s ease-out;
 	-moz-transition : all 0.3s ease-out;
 	-o-transition :all 0.3s ease-out;
@@ -3018,11 +3018,11 @@ a.scroll-down.scroll-yt {
 @media only screen and (max-width: 1200px) {
 .logo{
 	width:80px;
-	height:15px;
+	height:80px;
 	left:10px;
-	top:30px;
+	top:3px;
 	background:url('../images/logo.png') no-repeat center center;
-	background-size:80px 15px;
+	background-size:80px 80px;
 }
 .cbp-af-header.cbp-af-header-shrink .logo{
 	width:80px;
