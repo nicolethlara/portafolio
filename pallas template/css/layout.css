@@ -1976,21 +1976,19 @@ a.scroll-down.scroll-yt {
 }
 
 
-
-
 .image-auto-wraper{
 	display: flex;
 	flex-direction: row;
-justify-content: center;
+	justify-content: center;
 	width:100%;
 	overflow:hidden;
 } 
+
 .image-auto-wraper img{
 	width:70%;
 	height:auto;
 	align-content: center;
 	display:block;
-	
 } 
 
 
@@ -3218,7 +3216,8 @@ ul.slimmenu li > ul {
 	width:100%;
 }
 
-.image-auto-wraper{
+/* IMAGEN 1 */
+.image-auto-wraper {
 	display: flex;
 	flex-direction: row;
 justify-content: center;
@@ -3226,12 +3225,12 @@ justify-content: center;
 	overflow:hidden;
 } 
 .image-auto-wraper img{
-	width:450px;
+	width: 70%;
 	height:auto;
 	align-content: center;
-	display:block;
-	
+	display:block;	
 } 
+
 }
 
 @media only screen and (max-width: 319px) {
