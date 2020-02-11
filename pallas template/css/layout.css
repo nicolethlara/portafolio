@@ -3225,8 +3225,9 @@ justify-content: center;
 	overflow:hidden;
 } 
 .image-auto-wraper img{
-	width: 70%;
-	height:auto;
+	border: 1px solid black;
+	margin: 10px;
+	width: 100%;
 	align-content: center;
 	display:block;	
 } 
